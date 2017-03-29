@@ -1,2 +1,4 @@
 *.tcx
 *.csv
+test_bench.py
+*.pyc
